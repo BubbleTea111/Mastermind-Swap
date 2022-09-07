@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/Cronopoly/static/js/main.b477c155.chunk.js",
+    "main.js.map": "/Cronopoly/static/js/main.b477c155.chunk.js.map",
+    "runtime-main.js": "/Cronopoly/static/js/runtime-main.5f07d2af.js",
+    "runtime-main.js.map": "/Cronopoly/static/js/runtime-main.5f07d2af.js.map",
+    "static/css/2.6e4fc365.chunk.css": "/Cronopoly/static/css/2.6e4fc365.chunk.css",
+    "static/js/2.3ae22bb4.chunk.js": "/Cronopoly/static/js/2.3ae22bb4.chunk.js",
+    "static/js/2.3ae22bb4.chunk.js.map": "/Cronopoly/static/js/2.3ae22bb4.chunk.js.map",
+    "static/js/3.71c2f251.chunk.js": "/Cronopoly/static/js/3.71c2f251.chunk.js",
+    "static/js/3.71c2f251.chunk.js.map": "/Cronopoly/static/js/3.71c2f251.chunk.js.map",
+    "static/js/4.a1b1194b.chunk.js": "/Cronopoly/static/js/4.a1b1194b.chunk.js",
+    "static/js/4.a1b1194b.chunk.js.map": "/Cronopoly/static/js/4.a1b1194b.chunk.js.map",
+    "static/js/5.d67268ea.chunk.js": "/Cronopoly/static/js/5.d67268ea.chunk.js",
+    "static/js/5.d67268ea.chunk.js.map": "/Cronopoly/static/js/5.d67268ea.chunk.js.map",
+    "static/js/6.af90d207.chunk.js": "/Cronopoly/static/js/6.af90d207.chunk.js",
+    "static/js/6.af90d207.chunk.js.map": "/Cronopoly/static/js/6.af90d207.chunk.js.map",
+    "static/js/7.9fb32f80.chunk.js": "/Cronopoly/static/js/7.9fb32f80.chunk.js",
+    "static/js/7.9fb32f80.chunk.js.map": "/Cronopoly/static/js/7.9fb32f80.chunk.js.map",
+    "index.html": "/Cronopoly/index.html",
+    "static/css/2.6e4fc365.chunk.css.map": "/Cronopoly/static/css/2.6e4fc365.chunk.css.map",
+    "static/js/2.3ae22bb4.chunk.js.LICENSE.txt": "/Cronopoly/static/js/2.3ae22bb4.chunk.js.LICENSE.txt",
+    "static/js/3.71c2f251.chunk.js.LICENSE.txt": "/Cronopoly/static/js/3.71c2f251.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f07d2af.js",
+    "static/css/2.6e4fc365.chunk.css",
+    "static/js/2.3ae22bb4.chunk.js",
+    "static/js/main.b477c155.chunk.js"
+  ]
+}
